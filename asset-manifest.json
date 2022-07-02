@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.b58abc7e.css",
+    "main.js": "/portfolio/static/js/main.5159c5c6.js",
+    "static/js/787.128fc6e9.chunk.js": "/portfolio/static/js/787.128fc6e9.chunk.js",
+    "static/media/Hero.svg": "/portfolio/static/media/Hero.558331e2c4acbbea54c7beefa9bfc859.svg",
+    "static/media/scientyfic_world.svg": "/portfolio/static/media/scientyfic_world.d5c7e03cfccd95a4522f119c94b8e63d.svg",
+    "static/media/logo.svg": "/portfolio/static/media/logo.1111185ce19ee3baa3a7f8d24a4eddc9.svg",
+    "static/media/skill_3.svg": "/portfolio/static/media/skill_3.a4b205858a1e58be977b606a6c872c0b.svg",
+    "static/media/contact1.svg": "/portfolio/static/media/contact1.7b5472eeb5ad73bf48043e7a17140aec.svg",
+    "static/media/skill_1.svg": "/portfolio/static/media/skill_1.17e7f089518f0d98b8b63f8b4e21320c.svg",
+    "static/media/skill_6.svg": "/portfolio/static/media/skill_6.5656bdccef602617ee996945b3346340.svg",
+    "static/media/skill_5.svg": "/portfolio/static/media/skill_5.9498ab8093ff463280d23b4b5caaa457.svg",
+    "static/media/skill_2.svg": "/portfolio/static/media/skill_2.e9992aa2f9cd0539282f096e4bba5129.svg",
+    "static/media/skill_4.svg": "/portfolio/static/media/skill_4.4d2522d3f21e09b8bc7b4d09bdb857a4.svg",
+    "index.html": "/portfolio/index.html",
+    "main.b58abc7e.css.map": "/portfolio/static/css/main.b58abc7e.css.map",
+    "main.5159c5c6.js.map": "/portfolio/static/js/main.5159c5c6.js.map",
+    "787.128fc6e9.chunk.js.map": "/portfolio/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b58abc7e.css",
+    "static/js/main.5159c5c6.js"
+  ]
+}
